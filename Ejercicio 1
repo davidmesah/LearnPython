@@ -1,0 +1,7 @@
+mi_nombre= 'David Mesa'
+Mensaje1='Hola, soy ' + mi_nombre
+Mensaje2='Estoy empezando el curso de python'
+Mensaje3='Espero aprender mucho'
+print(Mensaje1)
+print(Mensaje2)
+print(Mensaje3)
